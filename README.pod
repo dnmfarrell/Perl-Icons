@@ -1,0 +1,15 @@
+=head1 Perl Icons
+
+This repo contains SVG images of icons associated with the Perl programming language. Feel free to use the icons for whatever purpose you choose - because they are SVG, the icons can be easily embedded in a font icon file.
+
+
+=head2 Author
+
+David Farrell
+
+
+=head2 License
+
+FreeBSD - see LICENSE
+
+=cut
