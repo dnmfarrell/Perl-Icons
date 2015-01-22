@@ -8,7 +8,7 @@ I'm licensing the icons under the FreeBSD license but be aware that the icons th
 
 =item * Camelia Perl 6 logo
 
-This logo is &copy; Larry Wall 2009. See L<details|https://raw.githubusercontent.com/perl6/mu/master/misc/camelia.txt>
+This logo is copyright Larry Wall 2009. See L<details|https://raw.githubusercontent.com/perl6/mu/master/misc/camelia.txt>
 
 =item * Perl and Camels
 
