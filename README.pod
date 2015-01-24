@@ -18,7 +18,11 @@ O'Reilly has a registered trademark on the camel and its association with Perl. 
 
 The Perl Foundation owns the Perl Onion logo and places certain restrictions on its use. See L<details|http://www.perlfoundation.org/perl_trademark>
 
-=back 
+=item * The Perl 5 Raptor
+
+Sebastian Riedel created the Perl 5 L<Raptor|https://github.com/kraih/perl-raptor> and licenses it under Creative Commons L<BY-SA|http://creativecommons.org/licenses/by-sa/4.0/>
+
+=back
 
 
 =head2 Author
