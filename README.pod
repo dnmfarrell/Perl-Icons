@@ -24,11 +24,13 @@ Sebastian Riedel created the Perl 5 L<Raptor|https://github.com/kraih/perl-rapto
 
 =item * The CPAN logo
 
-J.C. Thorpe created the CPAN logo and is distributed under Artistic License or GPLv1+
+J.C. Thorpe created the CPAN logo and distributed it under Artistic License or GPLv1+.
+SVG version by Thibault Duponchelle under the same terms.
 
 =item * The MetaCPAN logo
 
 Raul Matei created the MetaCPAN logo (for the MetaCPAN logo contest) and gave the full rights on the image to MetaCPAN admins ("A license will be granted to the MetaCPAN team to use it in any way they see fit.") so they can license as they want if needed.
+SVG version by Thibault Duponchelle under the same terms.
 
 
 =back
