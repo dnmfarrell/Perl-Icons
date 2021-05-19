@@ -12,7 +12,7 @@ This logo is copyright Larry Wall 2009. See L<details|https://raw.githubusercont
 
 =item * Perl and Camels
 
-O'Reilly has a registered trademark on the camel and its association with Perl. See L<details|http://www.onlamp.com/pub/a/oreilly/perl/usage/>
+O'Reilly has a registered trademark on the camel and its association with Perl. They used to have a page about it (archive.org L<link|https://web.archive.org/web/20080513235043/http://www.onlamp.com/pub/a/oreilly/perl/usage/>).
 
 =item * The Perl Onion
 
