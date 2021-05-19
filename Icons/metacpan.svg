@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+<circle id="a" cx='25' cy='25' r='20' fill="#C72131"/>
+<use href="#a" transform="translate(0,50)"/>
+<use href="#a" transform="translate(50,0)"/>
+<use href="#a" transform="translate(50,50)"/>
+</svg>
