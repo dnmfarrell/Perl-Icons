@@ -16,7 +16,7 @@ O'Reilly has a registered trademark on the camel and its association with Perl. 
 
 =item * The Perl Onion
 
-The Perl Foundation owns the Perl Onion logo and places certain restrictions on its use. See L<details|http://www.perlfoundation.org/perl_trademark>
+The Perl Foundation owns the Perl Onion logo and places certain restrictions on its use. See L<details|https://www.perlfoundation.org/trademarks.html>
 
 =item * The Perl 5 Raptor
 
